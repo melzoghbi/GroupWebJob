@@ -1,0 +1,5 @@
+C:\Users\moelzogh\Documents\Visual Studio 2015\Projects\Homitat\ConsoleApp\bin\Release\ConsoleApp.exe.config
+C:\Users\moelzogh\Documents\Visual Studio 2015\Projects\Homitat\ConsoleApp\bin\Release\ConsoleApp.exe
+C:\Users\moelzogh\Documents\Visual Studio 2015\Projects\Homitat\ConsoleApp\bin\Release\ConsoleApp.pdb
+C:\Users\moelzogh\Documents\Visual Studio 2015\Projects\Homitat\ConsoleApp\obj\Release\ConsoleApp.exe
+C:\Users\moelzogh\Documents\Visual Studio 2015\Projects\Homitat\ConsoleApp\obj\Release\ConsoleApp.pdb
